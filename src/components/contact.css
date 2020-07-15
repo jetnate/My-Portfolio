@@ -1,0 +1,49 @@
+
+
+.inner-width {
+    max-width: 600px;
+    margin: auto;
+    padding: 0 20px;
+}
+
+.name, .email, .message {
+    background: none;
+    border: none;
+    outline: none;
+    border-bottom: 1px solid;
+    color:black;
+    padding: 10px 6px;
+    font-size: 14px;
+    margin-bottom: 40px;
+}
+
+.name {
+    float: left;
+    width: 270px;
+    margin-right: 2rem;
+    width: 100%;
+}
+
+.email {
+    width: 80%;
+    float: left;
+}
+
+.message {
+    min-width: 100%;
+    max-width: 100%;
+}
+
+.skills-body button:hover {
+    color: #0a1722;
+    background: #e4428e;
+    box-shadow: 0 0 10px #722046, 0 0 40px #722046, 0 0 80px #722046;
+}
+
+@media screen and (max-width:600px) {
+    .email {
+        float: left;
+    width: 270px;
+    margin-right: 2rem;
+    }
+}
