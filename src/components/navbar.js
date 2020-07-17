@@ -6,7 +6,7 @@ class Navbar extends React.Component {
     render() {
         return(
             <div className="header">
-                <img className= ""/>
+               
                 <nav>
                 <ul className="kleco-nav">
                     <li><Link activeClass="bold"

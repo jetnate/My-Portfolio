@@ -22,7 +22,7 @@ li a{
   top: 0;
   position:fixed;
   display:flex;
-  justify-content: space-between;
+  justify-content: flex-end;
   align-items: center ;
  width:100%;
  padding:2rem;
@@ -38,15 +38,18 @@ li a{
 
 .kleco-nav{
   list-style-type: none;
+  
 }
 
 .kleco-nav li{
   display: inline-block;
   padding:0px 20px;
+ 
 }
 
 .kleco-nav li a{
   transition: all 0.3s ease 0s;
+  float: right;
 }
 
 .kleco-nav li a:hover{

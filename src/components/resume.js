@@ -9,13 +9,13 @@ class Resume extends React.Component{
             </div>
             <br></br>
             <div className="skillscontainer">
-                <img className="skillsicon" src="../images/react.png" ></img>
-                <img className="skillsicon" src="../images/node.png"></img>
-                <img className="skillsicon" src="../images/css.png"></img>
-                <img className="skillsicon" src="../images/html.png"></img>
-                <img className="skillsicon" src="../images/javascript.png"></img>
-                <img className="skillsicon" src="../images/mysql.png"></img>
-                <img className="skillsicon" src="../images/sass.png"></img>
+                <img className="skillsicon" src="../images/react.png" alt="react"></img>
+                <img className="skillsicon" src="../images/node.png" alt="node"></img>
+                <img className="skillsicon" src="../images/css.png" alt="css"></img>
+                <img className="skillsicon" src="../images/html.png" alt="html"></img>
+                <img className="skillsicon" src="../images/javascript.png" alt="javascript"></img>
+                <img className="skillsicon" src="../images/mysql.png" alt="mysql"></img>
+                <img className="skillsicon" src="../images/sass.png" alt="sass"></img>
             </div>
         </div>
             )

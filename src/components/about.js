@@ -20,7 +20,7 @@ I look forward to connecting with anyone who is passionate about technology, and
                 </p>
                 <br></br>
                 <br></br>
-                <a href='#' className='btn'>Get in Touch</a>
+                <div className="btn">Get in Touch</div>
               
 
             </div>
