@@ -9,7 +9,7 @@ class Navbar extends React.Component {
                 <img className= ""/>
                 <nav>
                 <ul className="kleco-nav">
-                    <li><Link activeClass="active"
+                    <li><Link activeClass="bold"
                    to="container"
               spy={true}
               smooth={true}
@@ -17,7 +17,7 @@ class Navbar extends React.Component {
               duration={1000}
             
               >About Me</Link> </li>
-                    <li><Link activeClass="active"
+                    <li><Link activeClass="bold"
                    to="Projects"
               spy={true}
               smooth={true}
@@ -25,9 +25,18 @@ class Navbar extends React.Component {
               duration={1000}
           
               >Projects</Link></li>
-                    <li><a href="">Resume</a></li>
-                    <li><Link activeClass="active"
-                   to="container"
+
+<li><Link activeClass="bold"
+                   to="skillscontainer"
+              spy={true}
+              smooth={true}
+              offset={0}
+              duration={1000}
+              className="link"
+              >Skills</Link></li>
+
+                    <li><Link activeClass="bold"
+                   to="inner-width"
               spy={true}
               smooth={true}
               offset={0}

@@ -62,7 +62,9 @@ class ContactPage extends React.Component {
     return (
         <div className="skills-body">
           <div className="inner-width">
-            <h1>Contact me</h1>
+            <div className="container">
+          <h1 className="headernathan">Contact Me</h1>
+          </div>
             <form onSubmit={this.handleSubmit}>
             <div className="validate" style={{ color: "red" }}>{this.state.nameError}</div>
 

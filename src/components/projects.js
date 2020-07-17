@@ -6,13 +6,13 @@ class Projects extends React.Component{
         return(
             <div>
 
-            <div className="Projects"><h1>Projects</h1></div>
+            <div className="Projects"><h1 className="headernathan">Projects</h1></div>
         <div className="gridcontainer">
         <div className="grid">
                 <div className="article">
                     <img className="image" src="../images/gateway.jpg" alt="gateway project"></img>
                     <div className="text">
-                        <h3>Gateway Project Revision</h3>
+                        <h3>Gateway Revision</h3>
                        <a href = "https://hungry-noyce-b51b20.netlify.app" target="_blank" rel="noopener noreferrer"  ><button className="button2">Website</button></a>
                        <a href = "https://github.com/jetnate/Codepen-Project" target="_blank" rel="noopener noreferrer"  ><button className="button2">Github</button></a>
                     </div>
@@ -32,7 +32,7 @@ class Projects extends React.Component{
                 <div className="article">
                     <img className="image" src="../images/hamburgernav.jpg" alt="hamburger navigation bar"></img>
                     <div className="text">
-                        <h3>Hamburger Navigation Bar</h3>
+                        <h3>Hamburger Nav Bar</h3>
                         <a href = "https://silly-pare-2645ee.netlify.app/" target="_blank" rel="noopener noreferrer"  ><button className="button2">Website</button></a>
                        <a href = "https://github.com/jetnate/Animated-Navigation-Bar" target="_blank" rel="noopener noreferrer"  ><button className="button2">Github</button></a>
                     </div>
@@ -49,7 +49,7 @@ class Projects extends React.Component{
                 <div className="article">
                     <img className="image" src="../images/gateway.jpg" alt="gateway project"></img>
                     <div className="text">
-                        <h3>Gateway Original Project</h3>
+                        <h3>Gateway  Project</h3>
                         <a href = "https://hungry-noyce-b51b20.netlify.app" target="_blank" rel="noopener noreferrer"  ><button className="button2">Website</button></a>
                        <a href = "https://github.com/jetnate/Gateway-Original-Project" target="_blank" rel="noopener noreferrer"  ><button className="button2">Github</button></a>
                     </div>
@@ -89,7 +89,7 @@ class Projects extends React.Component{
                 <div className="article">
                     <img className="image" src="../images/ticTacToe.png" alt="tictactoe"></img>
                     <div className="text">
-                        <h3>Tic TicTacToeApp</h3>
+                        <h3>TicTacToe App</h3>
                     <a href = "https://angry-bartik-9edbbb.netlify.app" target="_blank"  rel="noopener noreferrer"  ><button className="button2">Website</button></a>
                        <a href = "https://github.com/jetnate/TicTacToeApp" target="_blank"  rel="noopener noreferrer" ><button className="button2">Github</button></a>
                     </div>

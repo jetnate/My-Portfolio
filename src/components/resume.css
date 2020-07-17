@@ -1,0 +1,14 @@
+ @import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+.skillscontainer{
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.skillscontainer img{
+    height: 240px;
+    width: 300px;
+    flex-direction: column;
+    padding: 2rem;
+}
