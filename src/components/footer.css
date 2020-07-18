@@ -1,0 +1,18 @@
+.footer {
+    margin-top: 30px;
+    height:150px;
+    width:100%;
+     background:green;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-variant:small-caps;
+    font-family: Georgia;
+    background-color:green;
+     color:white;}
+
+     .footertext{
+         font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+         color:white;
+         font-size: 20px;
+     }

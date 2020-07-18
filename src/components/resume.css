@@ -4,6 +4,9 @@
     display:flex;
     flex-wrap: wrap;
     justify-content: center;
+    padding-bottom: 50px;
+    padding-top: 50px;
+    border-bottom:5px solid green;
 }
 
 .skillscontainer img{
