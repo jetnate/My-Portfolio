@@ -4,8 +4,11 @@
     width:100%;
      background:green;
     display: flex;
+    flex-direction: column;
     justify-content: center;
     align-items: center;
+   
+   
     font-variant:small-caps;
     font-family: Georgia;
     background-color:green;
@@ -15,4 +18,20 @@
          font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
          color:white;
          font-size: 20px;
+
+
      }
+
+     .social-logos li img {
+        width: 30%;
+        height:30%;
+       
+      }
+      
+      .social-logos li {
+        list-style-type: none;
+        display: inline-block;
+      }
+      .social-container{
+          padding-left: 200px;
+      }

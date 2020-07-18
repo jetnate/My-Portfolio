@@ -20,7 +20,7 @@ I look forward to connecting with anyone who is passionate about technology, and
                 </p>
                 <br></br>
                 <br></br>
-                <div className="btn">Get in Touch</div>
+                <a href="https://www.linkedin.com/in/nathan-tadesse-656b15155/" target="_blank"  rel="noopener noreferrer" className="btn">Get in Touch</a>
               
 
             </div>
