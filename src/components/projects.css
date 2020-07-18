@@ -36,7 +36,9 @@
 
 
 button{
-    background:linear-gradient(to right,#f030a7,#f0306f,#f03061);
+    background-color: #7ee8fa;
+    background-image: linear-gradient(315deg, #7ee8fa 0%, #80ff72 74%);
+    
     border-radius: 3px;
     border:none;
     color:white;
@@ -49,7 +51,11 @@ button{
 
 .button2{
     margin-bottom: 30px;
-    background:linear-gradient(to right,#f030a7,#f0306f,#f03061);
+    background-color: #63d471;
+    background-image: linear-gradient(315deg, #63d471 0%, #233329 74%);
+    
+
+
     border-radius: 3px;
     border:none;
     color:white;
