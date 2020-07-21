@@ -94,6 +94,14 @@ class Projects extends React.Component{
                        <a href = "https://github.com/jetnate/TicTacToeApp" target="_blank"  rel="noopener noreferrer" ><button className="button2">Github</button></a>
                     </div>
                 </div>
+                <div className="article">
+                    <img className="image" src="../images/ecommerce.png" alt="ecommerce"></img>
+                    <div className="text">
+                        <h3>Ecommerce</h3>
+                    <a href = "https://boring-wozniak-6771f0.netlify.app/" target="_blank"  rel="noopener noreferrer"  ><button className="button2">Website</button></a>
+                       <a href = "https://github.com/jetnate/Ecommerce-Project-2" target="_blank"  rel="noopener noreferrer" ><button className="button2">Github</button></a>
+                    </div>
+                </div>
         </div>
 
 </div>
